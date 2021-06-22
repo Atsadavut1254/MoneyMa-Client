@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6b9811a.chunk.css",
+    "main.js": "/static/js/main.5cd94d53.chunk.js",
+    "main.js.map": "/static/js/main.5cd94d53.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a57bcfcd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a57bcfcd.js.map",
+    "static/css/2.3c3a73a9.chunk.css": "/static/css/2.3c3a73a9.chunk.css",
+    "static/js/2.1dd350d0.chunk.js": "/static/js/2.1dd350d0.chunk.js",
+    "static/js/2.1dd350d0.chunk.js.map": "/static/js/2.1dd350d0.chunk.js.map",
+    "static/js/3.34e9c3fb.chunk.js": "/static/js/3.34e9c3fb.chunk.js",
+    "static/js/3.34e9c3fb.chunk.js.map": "/static/js/3.34e9c3fb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3c3a73a9.chunk.css.map": "/static/css/2.3c3a73a9.chunk.css.map",
+    "static/css/main.e6b9811a.chunk.css.map": "/static/css/main.e6b9811a.chunk.css.map",
+    "static/js/2.1dd350d0.chunk.js.LICENSE.txt": "/static/js/2.1dd350d0.chunk.js.LICENSE.txt",
+    "static/media/EX1.5e8c15bf.png": "/static/media/EX1.5e8c15bf.png",
+    "static/media/EX2.b23d275c.png": "/static/media/EX2.b23d275c.png",
+    "static/media/EX3-1.df2aa816.png": "/static/media/EX3-1.df2aa816.png",
+    "static/media/EX3.7766c5e3.png": "/static/media/EX3.7766c5e3.png",
+    "static/media/LINE.aef884eb.svg": "/static/media/LINE.aef884eb.svg",
+    "static/media/Type-1.57793828.png": "/static/media/Type-1.57793828.png",
+    "static/media/Type-2.374b61c4.png": "/static/media/Type-2.374b61c4.png",
+    "static/media/Type.395d842a.png": "/static/media/Type.395d842a.png",
+    "static/media/User1.1aac9419.svg": "/static/media/User1.1aac9419.svg",
+    "static/media/User2.d8c14dcf.svg": "/static/media/User2.d8c14dcf.svg",
+    "static/media/User3.290f22a7.svg": "/static/media/User3.290f22a7.svg",
+    "static/media/bg-card-main.76f20d3b.png": "/static/media/bg-card-main.76f20d3b.png",
+    "static/media/facebook-square.7b7174e7.svg": "/static/media/facebook-square.7b7174e7.svg",
+    "static/media/love1.13bedabd.svg": "/static/media/love1.13bedabd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a57bcfcd.js",
+    "static/css/2.3c3a73a9.chunk.css",
+    "static/js/2.1dd350d0.chunk.js",
+    "static/css/main.e6b9811a.chunk.css",
+    "static/js/main.5cd94d53.chunk.js"
+  ]
+}
