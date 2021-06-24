@@ -1,7 +1,8 @@
 
 # GET-A Web Application [Client]
-Money Ma is is a organizing service for managing various tasks. For convenience and can send invitations via LINE 
+In Thai tradition, the owner and the guest are congratulated by putting money in envelopes ("Sai Song").After the event, the owner will have to waste time counting the money in the envelope. Money Ma: Service System for Organizing the event on LINE Application will help this problem.
 
+MoneyMa has functions such as keeping data on the amount of the envelope and guests, calculating the cost of the event, creating a card, sending a card, responding to an event, responding to a greeting, and responding via SCB Easy Sandbox.
 **This is a client side of Money Ma Project.**
 
 ## Features
