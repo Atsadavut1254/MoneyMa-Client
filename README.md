@@ -1,7 +1,9 @@
 
 # GET-A Web Application [Client]
 Money Ma is is a organizing service for managing various tasks. For convenience and can send invitations via LINE 
-**This is a client side of GET-A Web Application Project.**
+
+**This is a client side of Money Ma Project.**
+
 ## Features
 -  **For Owner**
 	- crud card/event
